@@ -171,3 +171,16 @@
     padding-left: 40px;
     padding-right: 180px; 
 }
+.lorem{
+    border: 1px solid black;
+    background-color: gray;
+    position: absolute;
+    display: flex;
+    left: 500px;
+    margin-right: 60px;
+    top: 400px;
+    width: 400px;
+    height: 180px;
+    text-align: center;
+    padding-top: 20px;
+}
